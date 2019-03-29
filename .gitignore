@@ -1,0 +1,10 @@
+# Игнор-лист файлов проекта
+# ---- ФАЙЛЫ ----
+*.log
+*.o
+*.json
+chessviz
+*.html
+input.inst
+chessviz
+# (корнём считается расположение файла .gitignore)
