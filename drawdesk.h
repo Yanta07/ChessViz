@@ -1,6 +1,8 @@
 #ifndef DRAWDESK_H
 #define DRAWDESK_H
 
+#include <stdio.h>
+
 #define WPAWN 0
 #define WKNIGHT 1
 #define WBISHOP 2
